@@ -20,3 +20,13 @@ blockquote[xml|lang]{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
