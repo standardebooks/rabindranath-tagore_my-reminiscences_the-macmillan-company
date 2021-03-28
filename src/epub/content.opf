@@ -51,7 +51,7 @@
 		<dc:creator id="author">Rabindranath Tagore</dc:creator>
 		<meta property="file-as" refines="#author">Tagore, Rabindranath</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rabindranath_Tagore</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80036680</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80036680</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">The Macmillan Company</dc:contributor>
 		<meta property="file-as" refines="#translator">Macmillan Company, The</meta>
@@ -63,7 +63,7 @@
 		<dc:contributor id="artist">Edwin Lord Weeks</dc:contributor>
 		<meta property="file-as" refines="#artist">Weeks, Edwin Lord</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Lord_Weeks</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n86835275</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86835275</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
