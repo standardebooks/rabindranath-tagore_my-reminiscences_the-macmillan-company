@@ -45,7 +45,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/22217</dc:source>
 		<dc:source>https://books.google.com/books?id=rRVoAAAAMAAJ</dc:source>
 		<meta property="se:word-count">57916</meta>
-		<meta property="se:reading-ease.flesch">67.18</meta>
+		<meta property="se:reading-ease.flesch">67.38</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rabindranath-tagore_my-reminiscences_the-macmillan-company</meta>
 		<dc:creator id="author">Rabindranath Tagore</dc:creator>
 		<meta property="file-as" refines="#author">Tagore, Rabindranath</meta>
