@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007101607</meta>
 		<meta property="schema:genre">Autobiography</meta>
-		<dc:abstract>Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.</dc:abstract>
+		<meta property="schema:abstract">Autobiographical sketches from the Bengali writer, poet, and artist Rabindranath Tagore.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/rabindranath-tagore"&gt;Rabindranath Tagore&lt;/a&gt;, sometimes referred to as the Bard of Bengal, was a poet, composer, and artist active in the latter half of the 19th century and the first half of the 20th century. His poetry had a profound impact on Bengali literature—so much so that in 1913 he became the first non-European to win the Nobel Prize in Literature.&lt;/p&gt;
 			&lt;p&gt;Today Tagore is recognized for transforming Bengali art, moving it away from its classical forms by embracing the Bengal Renaissance. Though his artistic output spanned many disciplines, his most famous is perhaps &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali"&gt;Gitanjali&lt;/a&gt;&lt;/i&gt;, his collection of poems that he himself later translated to English. His impact on Indian and Bengali letters can be exemplified by the fact that two of his compositions were chosen as national anthems—“Jana Gana Mana” for India, and “Amar Shonar Bangla” for Bangladesh—and that the Sri Lankan national anthem was inspired by his work.&lt;/p&gt;
